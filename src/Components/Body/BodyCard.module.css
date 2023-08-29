@@ -1,0 +1,43 @@
+.card {
+  position: relative;
+  width: 359px;
+  height: 377px;
+  border: 1.399999976158142px solid #ffffff;
+  padding: 20px;
+  border-radius: 14px;
+  /* border: 1.399999976158142px; */
+  background-color: #121212;
+}
+.main {
+  width: 215px;
+  height: 24px;
+
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.sub {
+  width: 293px;
+  height: 69px;
+
+  opacity: 0.30000001192092896px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.btn {
+  width: 121px;
+  height: 43px;
+
+  border-radius: 23.5px;
+  position: absolute;
+  left: 10px;
+  background-color: #e3b748;
+  cursor: pointer;
+}

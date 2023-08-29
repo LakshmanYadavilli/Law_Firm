@@ -1,0 +1,48 @@
+.logoContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 20%;
+  /* background-color: red; */
+  position: absolute;
+  left: 1px;
+}
+.navTextContainer {
+  display: flex;
+  width: 60%;
+  /* background-color: pink; */
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  left: 20%;
+}
+.navText {
+  cursor: pointer;
+}
+
+.header {
+  color: #ffffff;
+  width: 80%;
+  margin: 0px 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding-top: 20px;
+  margin-bottom: 50px;
+}
+.btn {
+  width: 15%;
+  height: 47px;
+  background-color: #111111;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  cursor: pointer;
+  position: absolute;
+  right: 0px;
+}
+.Img {
+  position: absolute;
+  right: 0px;
+}
